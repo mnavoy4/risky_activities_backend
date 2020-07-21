@@ -29,42 +29,42 @@ RiskyActivity.create(
 RiskyActivity.create(
   activity_name: "American Football",
   chance_of_dying: "1 in 50,000",
-  image_url: "https://unsplash.com/photos/-xHZBzv4Naw",
+  image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8MU_tqTP2n7b_NyJgpEKoAnQAFRTfrCrh8Q&usqp=CAU",
 )
 RiskyActivity.create(
   activity_name: "Grand Prix Racing",
   chance_of_dying: "1 in 100",
-  image_url: "https://unsplash.com/photos/y0nEulARNsk",
+  image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaOiFhmizjVll8eJpuHpVpwQ0sKJQ_tl9lNA&usqp=CAU"
 )
 RiskyActivity.create(
   activity_name: "Motorbike Racing",
   chance_of_dying: "1 in 1,000",
-  image_url: "https://unsplash.com/photos/2dk0_XbUevo",
+  image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShuMdunwg244_cb8M96o98z1qsPAgEY5UmWw&usqp=CAU",
 )
 RiskyActivity.create(
   activity_name: "Canoeing",
   chance_of_dying: "1 in 10,000",
-  image_url: "https://unsplash.com/photos/6F98shIQysI",
+  image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-rVOWYN6x5pq8-0W8MMpdl9HoiJmYTLiNjw&usqp=CAU",
 )
 RiskyActivity.create(
   activity_name: "Swimming",
   chance_of_dying: "1 in 10,000",
-  image_url: "https://unsplash.com/photos/E9PJO_vL3E8",
+  image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4fw2xEeBzhJJhEo9kmAbYkbZ8zB1DoiJDeA&usqp=CAU",
 )
 RiskyActivity.create(
   activity_name: "Running and Jogging",
   chance_of_dying: "1 in 10,000",
-  image_url: "https://unsplash.com/photos/QVD3Xht9txA",
+  image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7teRQbNblJrwFQif4UmePPxUqSj8pQiIYLA&usqp=CAU",
 )
 RiskyActivity.create(
   activity_name: "Bicycling",
   chance_of_dying: "1 in 10,000",
-  image_url: "https://unsplash.com/photos/N-PVsGyNB2M",
+  image_url: "https://lh3.googleusercontent.com/proxy/2tJlLpGoRxJa0tR6DzHp36DW81T7J1bxJAi8lAlRIWJ_qi9ulAAgfs6BhmusKaDOfF6K4t_BjRsp994aoQ78Qnl5g8OC76-haG9uzK7nd-IvlcvdXpCHdxjcHieRrVtkiDZIKZMuD8_T",
 )
 RiskyActivity.create(
   activity_name: "Bungee Jumping",
   chance_of_dying: "1 in 10,000",
-  image_url: "https://unsplash.com/photos/Z2h10lcXXfU",
+  image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqCsi5pk8j36iZjH0pzKA7chYjTlog9zCg4w&usqp=CAU",
 )
 RiskyActivity.create(
   activity_name: "Base Jumping",
