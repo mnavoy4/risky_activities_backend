@@ -1,0 +1,2 @@
+class RiskyActivity < ApplicationRecord
+end
