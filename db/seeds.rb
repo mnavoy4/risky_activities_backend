@@ -48,61 +48,61 @@ RiskyActivity.create(
 )
 RiskyActivity.create(
   activity_name: "Swimming",
-  chance_of_dying: "1 in 10,000",
+  chance_of_dying: "1 in 1,000,000",
   image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4fw2xEeBzhJJhEo9kmAbYkbZ8zB1DoiJDeA&usqp=CAU",
 )
 RiskyActivity.create(
   activity_name: "Running and Jogging",
-  chance_of_dying: "1 in 10,000",
+  chance_of_dying: "1 in 1,000,000",
   image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7teRQbNblJrwFQif4UmePPxUqSj8pQiIYLA&usqp=CAU",
 )
 RiskyActivity.create(
   activity_name: "Bicycling",
-  chance_of_dying: "1 in 10,000",
+  chance_of_dying: "1 in 140,845",
   image_url: "https://lh3.googleusercontent.com/proxy/2tJlLpGoRxJa0tR6DzHp36DW81T7J1bxJAi8lAlRIWJ_qi9ulAAgfs6BhmusKaDOfF6K4t_BjRsp994aoQ78Qnl5g8OC76-haG9uzK7nd-IvlcvdXpCHdxjcHieRrVtkiDZIKZMuD8_T",
 )
 RiskyActivity.create(
   activity_name: "Bungee Jumping",
-  chance_of_dying: "1 in 10,000",
+  chance_of_dying: "1 in 500,000",
   image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqCsi5pk8j36iZjH0pzKA7chYjTlog9zCg4w&usqp=CAU",
 )
 RiskyActivity.create(
   activity_name: "Base Jumping",
-  chance_of_dying: "1 in 10,000",
+  chance_of_dying: "1 in 60",
   image_url: "https://wonderopolis.org/wp-content/uploads/2018/10/dreamstime_l_61167125.jpg",
 )
 RiskyActivity.create(
   activity_name: "Snowboarding",
-  chance_of_dying: "1 in 10,000",
+  chance_of_dying: "1 in 2,200,000",
   image_url: "https://travel.home.sndimg.com/content/dam/images/travel/fullrights/2015/12/4/top-5-snowboarding-vacations/top-5-snowboarding-tahoe.jpg.rend.hgtvcom.616.462.suffix/1491592909493.jpeg",
 )
 RiskyActivity.create(
   activity_name: "Skiing",
-  chance_of_dying: "1 in 10,000",
+  chance_of_dying: "1 in 1,400,000",
   image_url: "https://static.toiimg.com/photo/66273382.cms",
 )
 RiskyActivity.create(
   activity_name: "Mountain Hiking",
-  chance_of_dying: "1 in 10,000",
+  chance_of_dying: "1 in 15,700",
   image_url: "https://images.unsplash.com/photo-1568454537842-d933259bb258?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
 )
 RiskyActivity.create(
   activity_name: "Mountain Climbing",
-  chance_of_dying: "1 in 10,000",
+  chance_of_dying: "1 in 1,750",
   image_url: "https://images.unsplash.com/photo-1522163182402-834f871fd851?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
 )
 RiskyActivity.create(
   activity_name: "Dance Parties",
-  chance_of_dying: "1 in 10,000",
+  chance_of_dying: "1 in 100,000",
   image_url: "https://images.unsplash.com/photo-1524117853209-a2fcab240719?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
 )
 RiskyActivity.create(
   activity_name: "Table Games",
-  chance_of_dying: "1 in 10,000",
+  chance_of_dying: "1 in 100,000,000",
   image_url: "https://images.unsplash.com/photo-1589804845133-49b5e06cc415?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
 )
 RiskyActivity.create(
   activity_name: "Computer Games",
-  chance_of_dying: "1 in 10,000",
+  chance_of_dying: "1 in 100,000,000",
   image_url: "https://images.unsplash.com/photo-1589241062272-c0a000072dfa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
 )
