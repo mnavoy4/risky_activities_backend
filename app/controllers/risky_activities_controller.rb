@@ -4,4 +4,5 @@ class RiskyActivitiesController < ApplicationController
     risky_activities = RiskyActivity.all
     render json: risky_activities, except:[:created_at, :updated_at]
   end
+
 end

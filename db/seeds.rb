@@ -9,22 +9,22 @@
 RiskyActivity.create(
   activity_name: "Hang Gliding",
   chance_of_dying: "1 in 560",
-  image_url: "ttps://unsplash.com/photos/LOFHydqLu80",
+  image_url: "https://img.traveltriangle.com/blog/wp-content/uploads/2020/02/Cover-for-Hanggliding-in-Turkey_1st-feb.jpg",
 )
 RiskyActivity.create(
   activity_name: "Skydiving",
   chance_of_dying: "1 in 101,083",
-  image_url: "https://unsplash.com/photos/G0FsO2Ca8nQ",
+  image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVe-BDU-31smiOf-RdJawCb8OpzPKZWqIUFQ&usqp=CAU",
 )
 RiskyActivity.create(
   activity_name: "Boxing",
   chance_of_dying: "1 in 2,200",
-  image_url: "https://unsplash.com/photos/qbf59TU077Q",
+  image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0DMTkXG17RWg_MFEoFDyHAuzKSBtMa3BoPg&usqp=CAU"
 )
 RiskyActivity.create(
   activity_name: "Scuba Diving",
   chance_of_dying: "1 in 34,400",
-  image_url: "https://unsplash.com/photos/ENSc57B2lxs",
+  image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTRVfKIVaN-4Jz2Sco0P8C94DD9FzWGh277tA&usqp=CAU"
 )
 RiskyActivity.create(
   activity_name: "American Football",
